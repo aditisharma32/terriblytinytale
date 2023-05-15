@@ -2,6 +2,9 @@
 
 This project is a React application that fetches the contents of a text file, analyzes the frequency of each word, and displays a histogram chart of the top 20 most occurring words. It also provides an option to export the histogram data as a CSV file.
 
+#### Link : https://aditi-ttt-assignment.netlify.app/
+
+
 ## Features
 
 - Fetches the contents of the text file from the Terribly Tiny Tales website.
@@ -26,11 +29,13 @@ This project is a React application that fetches the contents of a text file, an
 ## Usage
 
 1. Click the "Submit" button to fetch the contents of the text file and analyze the word frequencies.
+
+![image](https://github.com/aditisharma32/terriblytinytale/assets/87199402/75765501-8a1d-49ed-8ed8-f5afc92ae084)
+
 2. Once the analysis is complete, a histogram chart will be displayed showing the top 20 most occurring words.
+
+![image](https://github.com/aditisharma32/terriblytinytale/assets/87199402/946766fc-d17b-46d5-9aba-d8c4a8352c1b)
+
 3. Click the "Export" button to download a CSV file containing the histogram data.
 
-## Project Structure
-
-- **src/App.js**: The main component of the application that handles the logic and rendering of the word frequency analysis.
-- **src/index.js**: The entry point of the application where the React app is rendered.
-- **public/index.html**: The HTML template file for the React app.
+![image](https://github.com/aditisharma32/terriblytinytale/assets/87199402/7ea2cfce-e748-4a5e-b0e0-f3b0c8f626d2)
